@@ -1,3 +1,24 @@
-# CofShop
-An app that uses Google Maps and Google Places API to display all the coffee shops near your current position
-![testgif](https://cloud.githubusercontent.com/assets/5139030/10685757/6196653a-797b-11e5-9259-7b6d46aa3db3.gif)
+# Find Coffee Places near me by Advait Patel
+[<img src="https://github.com/advaitpatel/Audio-Keeper/blob/master/app/src/main/res/drawable/iconRecord.png" width=250 height=250 style="float: left; padding-right: 10px;">](https://www.linkedin.com/in/AdvaitPatel93)
+
+A simple, OpenSource Coffee Places finder near your current place App for Android device. 
+
+# Screenshots
+
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22635969/7010ec7a-ebfd-11e6-9480-ce1657746437.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22635969/7010ec7a-ebfd-11e6-9480-ce1657746437.png)
+
+[<img src="https://cloud.githubusercontent.com/assets/6481231/22635968/7010fc38-ebfd-11e6-998c-6d2a1689b362.png" width=250>](https://cloud.githubusercontent.com/assets/6481231/22635968/7010fc38-ebfd-11e6-998c-6d2a1689b362.png)
+
+
+
+
+
+
+## Contribution
+If you have any other innovative ideas or issues, please contact me or reach out to me.
+
+
+## License
+
+This application is Free and OpenSource: You can use, study, share and improve it at your
+will. You don't need my permission for copying any contents. But please do not submit this work as a part of your an academic assignment or homework.
