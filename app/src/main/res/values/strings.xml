@@ -1,11 +1,12 @@
 <resources>
 
-    <string name="app_name">CofShop</string>
+    <string name="app_name">Find Coffee Places</string>
 
     <string name="hello_world">Hello world!</string>
     <!--
     <string name="google_places_api_key">AIzaSyDqNorhIxReX8ZW-dCg69fDd8mseZL3bZw</string>
     AIzaSyBBTjzAEkRypeVhXdYC9as4sOoxZ_5aEEc
+    https://console.developers.google.com/apis/credentials?project=api-project-674146078522
     -->
     <string name="google_places_api_key">AIzaSyBBTjzAEkRypeVhXdYC9as4sOoxZ_5aEEc</string>
     <string name="status_ok">OK</string>

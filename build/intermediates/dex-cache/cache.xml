@@ -2,214 +2,214 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-24d2056d8c63be3744e9ac44daa1390050d6bbd1.jar" />
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-72ca80c31da5d58365116fbd2d5d529836931c62.jar" />
     </item>
     <item
         jar="E:\SOFTWARES\AndroidSetup\sdk\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-0d51792481655e75f2e3bade83c9528fd6948654.jar" />
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-0d51792481655e75f2e3bade83c9528fd6948654.jar" />
     </item>
     <item
         jar="C:\Users\Advait\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-71ecdd7d6861ae2bc13996b67e12437f68355769.jar" />
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-71ecdd7d6861ae2bc13996b67e12437f68355769.jar" />
     </item>
     <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-0c39417b1423705ad26e269b2dc306cbb72b4481.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-a2b0b86f15747eefff4870c2f89d985143cd9d4a.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-61ef851e9c7d30bb5687d423c1a72657913e2254.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-cbb2795c3c9c3eec8896fc46d558ea51ce36a899.jar" />
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-83ea75f531bb1681b5dd4f83e2a1d35d0bf2ef5d.jar" />
     </item>
     <item
         jar="C:\Users\Advait\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1-726ec7438e7c268120b10e5cfd928002ad37ae42.jar" />
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\gson-2.3.1-726ec7438e7c268120b10e5cfd928002ad37ae42.jar" />
     </item>
     <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-4bdd7ba594d0594b88cf9fe8d8d1fc99d7734a70.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-ccedc2cfe1652fd0a53e445230c9a73a489151aa.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-8417a7915026d3f4cd129463ef03cb4c59c17f26.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-fa7c502fc45c02f31188a7b932f75db22e273092.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-64a1ecddb6ab1c8fb775299d5b625878c2bbf929.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-fb5efbbc489ab818158508bbb47e478cffe3db91.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-79a2746a69708630833f454ddabef9e63e04de4b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-90981ef9c85e14c62f2784a64613c73d0e2af54b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-b2e9c8852fcbae000d6e21f80a49db2e38c7173d.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-7432234c9cccff1c1089b2d11d39da52f9d18c20.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-23efa558d818776543f1e438147415f8459472a6.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-94fb855cfd0656541f81654a9653fbde6593865b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-1f887ccfda51a7e06b3d053ac60e5dc0e7b6936c.jar" />
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-7996f597099ac058fbcf09b6ce5ca3760e19cbb7.jar" />
     </item>
     <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-55ae76280ba13f752ffb5d2cca306c2dfc2e3982.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-61cffe4ec08b3fc92b3384ed81d74b6c75c7c8e0.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-60aa30566d980e6c6e58754d77bc9948552edc3f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-0626509da3119d9eeb418c72da2310865887aad6.jar" />
-    </item>
-    <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-fa00824f69ea2d60f237b549122cd82bd46edea0.jar" />
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-abd27eefb7ff5acc86810978b6c8f6e23c6d5f45.jar" />
     </item>
     <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-23496c6f4b47fdc78e45e7c8f9c36abcc91fbeba.jar" />
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-c860dacaa6fe0893a100b7e1da0687192edd38c1.jar" />
     </item>
     <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-a2e7996e4cb4e56f5817f90d83458535ab8ad5c1.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-aff501d05da80790264658203d5a3d9c4422c66f.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-01f3fa98b377decfcd72a35276c9548268fae007.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-3143bc7a85485c1bb65600fec481718f75d83f8b.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-ac0ee8bfdcd3caeaf96dc4e7db751827a86aceef.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-7a7814bd7074780512318a1a3555bb6d1b3feb6a.jar" />
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-3766354132a346faddb166e9b604b62304589f64.jar" />
     </item>
     <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-cc62a77954e110ef6c1f46df80dc23172e1a89cb.jar" />
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-f4dbc4413872dc59ae5259af5c6cfa6dd1f890cc.jar" />
     </item>
     <item
-        jar="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="C:\Users\Advait\Downloads\CofShop-master\CofShop-master\app\build\intermediates\pre-dexed\debug\classes-714730fd4a81a2c0b8c85318f8f359423371e475.jar" />
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-77f71be5485c7dd1d261fb04ae26f1317a2e0850.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-264a73c52ece10b15d51c71ce261d76f76dae0d6.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-9d279a18e06cf24dec4d905d9b146819dc7552f5.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-08431009197a6f79f3b4f26aa7c986811813f0d3.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-e44b772829d096e85b2f289e8a381b39e312f602.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-64842ddebb5489969317375b2812b2058029f5ee.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-3be2ffe431a20de8772906b227fa4cb392d93360.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-d10ff5aae4fd0469e6f1dab2e7a2f9d95b4d467d.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-230ef520f3ced6ad24a0d9d2206593b6630ca798.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-185c35f9b9286688d96334cb8f578acae630ba21.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-fb1c1d33fdbd6b6dca7916809e1a7b5c653c6afc.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-64a42966684ea5a39b08519f615a20b33d6ee77a.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-e9fba36418efc03d726c8baa656dda48dbe2302a.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-4b932d7480fcc0a5a435483f51dfc54153ac81dc.jar" />
+    </item>
+    <item
+        jar="E:\GitHub\Find-Coffee-places\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="E:\GitHub\Find-Coffee-places\app\build\intermediates\pre-dexed\debug\classes-38d23adba2ef076f6fb27bd5d3345f0a41e93cc3.jar" />
     </item>
 
 </items>

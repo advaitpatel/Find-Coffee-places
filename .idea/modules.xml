@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CofShop-master.iml" filepath="$PROJECT_DIR$/CofShop-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find-Coffee-places.iml" filepath="$PROJECT_DIR$/Find-Coffee-places.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
