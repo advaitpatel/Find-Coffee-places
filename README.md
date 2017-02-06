@@ -1,5 +1,5 @@
 # Find Coffee Places near me by Advait Patel
-[<img src="https://github.com/advaitpatel/Audio-Keeper/blob/master/app/src/main/res/drawable/iconRecord.png" width=250 height=250 style="float: left; padding-right: 10px;">](https://www.linkedin.com/in/AdvaitPatel93)
+[<img src="http://coffeeshopsnearme.directory/wp-content/uploads/2014/09/cropped-coffee-shops-near-me-logo-2.png" width=250 height=250 style="float: left; padding-right: 10px;">](https://www.linkedin.com/in/AdvaitPatel93)
 
 A simple, OpenSource Coffee Places finder near your current place App for Android device. 
 
